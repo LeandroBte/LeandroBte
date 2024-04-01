@@ -10,5 +10,5 @@
 
 ## Sobre Mí: ##
 
-* 🌐 Developer Web
+* 🌐 Front-End Developer Web
 * ⚛️ React js Devolper
