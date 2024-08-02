@@ -11,5 +11,4 @@
 ## Sobre Mí: ##
 
 * 🌐 Front-End Developer Web
-* [![django](https://cdn3.emoji.gg/emojis/7657-django.png)](https://emoji.gg/emoji/7657-django)
-* <a href="https://emoji.gg/emoji/7657-django"><img src="https://cdn3.emoji.gg/emojis/7657-django.png" width="64px" height="64px" alt="django"></a>
+* <a href="https://emoji.gg/emoji/7657-django"><img src="https://cdn3.emoji.gg/emojis/7657-django.png" width="18px" height="18px" alt="django"></a>
